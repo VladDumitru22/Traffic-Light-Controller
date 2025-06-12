@@ -29,7 +29,7 @@ The design is split into multiple SystemVerilog modules for clarity and reuse:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/VladDumitru22/Traffic-Light-Controller.git
+   git clone https://github.com/Your_Name/Traffic-Light-Controller.git
    cd Traffic-Light-Controller
 
 
